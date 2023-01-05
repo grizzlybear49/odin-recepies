@@ -1,0 +1,1 @@
+In this repository i'm making a recipie website with all the lesons i've learned on The Odin Project
